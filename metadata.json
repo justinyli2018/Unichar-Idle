@@ -1,0 +1,5 @@
+{
+  "name": "Unichar Idle",
+  "description": "A minimalist idle/gacha game based on Unicode characters.",
+  "requestFramePermissions": []
+}
